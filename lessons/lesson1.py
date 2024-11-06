@@ -35,4 +35,3 @@ audi.drive()
 mazda.drive()
 
 print(mazda)
-a=
